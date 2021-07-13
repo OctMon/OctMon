@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<img src="https://image.flaticon.com/icons/svg/630/630667.svg" width="512" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=octmon" />
+<img src="https://visitor-badge.glitch.me/badge?page_id=octmon" />
+
+[个人博客](https://octmon.github.io/)
+
 <!--
 **OctMon/OctMon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
